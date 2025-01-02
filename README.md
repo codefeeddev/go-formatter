@@ -72,6 +72,7 @@ Create a `.env.local` file in the root directory:
 
 ```md
 NEXT_PUBLIC_API_URL=your-api-url
+```
 
 ## 📝 Usage
 
