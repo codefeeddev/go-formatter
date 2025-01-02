@@ -62,7 +62,6 @@ The application consists of two main components:
 - [Next.js](https://nextjs.org/) - React framework
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor
 - [Vercel](https://vercel.com/) - Hosting and deployment
 
 ## 🔧 Configuration
